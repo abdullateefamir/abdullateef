@@ -1,0 +1,17 @@
+.body { 
+	 background-image: #F6F5F5 url(img/apple1.jpg) right top;
+	 border-top: 10px solid #9FCC7F;  
+    background-size: relative;
+    padding: left 60px;
+}
+.maindiv {
+    text-align: right;
+    color: #0f7fed; text-shadow: 3px 1px rgb(10, 8, 8);
+    font-family:Georgia, Serif;
+    font-size:xx-large;
+} 
+ .bed {
+    color:white;  
+    /* text-shadow: 3px 1px rgb(10, 8, 8); */
+    /* border-radius: 30%; */
+}
